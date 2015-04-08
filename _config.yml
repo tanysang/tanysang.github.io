@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://tanysang.github.io/
+author: Razi
+paginate: 24
+highlighter: pygments
